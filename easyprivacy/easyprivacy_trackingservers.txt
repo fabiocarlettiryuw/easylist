@@ -24,6 +24,7 @@
 ||200summit.com^$third-party
 ||204st.us^$third-party
 ||206solutions.com^$third-party
+||svscomics.com^$third-party
 ||247-inc.com^$third-party
 ||247-inc.net^$third-party
 ||247ilabs.com^$third-party
